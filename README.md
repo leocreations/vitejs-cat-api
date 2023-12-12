@@ -17,17 +17,18 @@ Tareas:
 
 Para probar esta aplicación tienes que hacer un git clone de este repositorio
 
-``
+~~~
   git clone https://github.com/leocreations/vitejs-cat-api.git
-``
+~~~
 
 Una vez que hayas clonado el repositorio ejecuta este comando en la carpeta donde lo hayas copiado
 
-``
+~~~
   npm install
-``
+~~~
 
 Se instalaran todas las dependencias y por último para abrir un servidor y ver la aplicación ejecuta
-``
+
+~~~
   npm run dev
-``
+~~~
