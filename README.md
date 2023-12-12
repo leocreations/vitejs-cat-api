@@ -10,5 +10,5 @@ Apis:
 Tareas:
 
 - Recupera un hecho aleatorio de gatos de la primera API.
-- Recupera la primera palabra del hecho.
-- Muestra una imagen de un gato con la primera palabra.
+- Recupera las tres primeras palabras del hecho.
+- Muestra una imagen de un gato con las tres primeras palabras recuperadas anteriormente.
